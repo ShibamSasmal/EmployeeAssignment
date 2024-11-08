@@ -4,6 +4,7 @@ using Employee_Test.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Employee_Test.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241107072426_addlocalisation")]
+    partial class addlocalisation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -100,9 +103,6 @@ namespace Employee_Test.Migrations
                     b.Property<string>("LangCode")
                         .HasColumnType("varchar(2)");
 
-                    b.Property<bool>("IsDefault")
-                        .HasColumnType("bit");
-
                     b.Property<string>("LangName")
                         .IsRequired()
                         .HasColumnType("nvarchar(70)");
@@ -110,71 +110,39 @@ namespace Employee_Test.Migrations
                     b.HasKey("LangCode");
 
                     b.ToTable("TblAppLangMaster");
-
-                    b.HasData(
-                        new
-                        {
-                            LangCode = "en",
-                            IsDefault = true,
-                            LangName = "English"
-                        },
-                        new
-                        {
-                            LangCode = "ar",
-                            IsDefault = false,
-                            LangName = "Arabic"
-                        });
                 });
 
             modelBuilder.Entity("Employee_Test.Models.TblCountry", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
-                        .HasDefaultValueSql("newsequentialid()");
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("CountryCode")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValueSql("getutcdate()");
-
-                    b.Property<DateTime>("ModifiedAt")
-                        .HasColumnType("datetime2");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("CreatedAt");
 
                     b.ToTable("TblCountries");
                 });
 
             modelBuilder.Entity("Employee_Test.Models.TblCountryTran", b =>
                 {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
-                        .HasDefaultValueSql("newsequentialid()");
-
                     b.Property<Guid>("CountryId")
                         .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("LangCode")
-                        .HasColumnType("varchar(2)");
 
                     b.Property<string>("CountryName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id", "CountryId", "LangCode");
+                    b.Property<string>("LangCode")
+                        .IsRequired()
+                        .HasColumnType("varchar(2)");
+
+                    b.HasKey("CountryId");
 
                     b.HasIndex("LangCode");
-
-                    b.HasIndex("CountryId", "LangCode")
-                        .IsUnique();
 
                     b.ToTable("TblCountryTrans");
                 });

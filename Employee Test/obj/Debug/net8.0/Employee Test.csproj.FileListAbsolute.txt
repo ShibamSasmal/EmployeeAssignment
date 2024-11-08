@@ -282,3 +282,4 @@ D:\Employee Test\Employee Test\obj\Debug\net8.0\refint\Employee Test.dll
 D:\Employee Test\Employee Test\obj\Debug\net8.0\Employee Test.pdb
 D:\Employee Test\Employee Test\obj\Debug\net8.0\Employee Test.genruntimeconfig.cache
 D:\Employee Test\Employee Test\obj\Debug\net8.0\ref\Employee Test.dll
+D:\Employee Test\Employee Test\obj\Debug\net8.0\Employee Test.sourcelink.json

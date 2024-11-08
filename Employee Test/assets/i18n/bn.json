@@ -1,0 +1,10 @@
+{
+  "EMPLOYEE_DEPARTMENT_MAPPING": "কর্মচারী বিভাগের মানচিত্র",
+  "SELECT_LANGUAGE": "ভাষা নির্বাচন করুন",
+  "Add Employee": "কর্মচারী যোগ করুন",
+  "Add Department": "বিভাগ যোগ করুন",
+  "Assign": "অর্পণ করুন",
+  "Employee": "কর্মচারী",
+  "Department": "বিভাগ",
+  "Experience": "অভিজ্ঞতা (মাস)"
+}

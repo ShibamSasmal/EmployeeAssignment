@@ -1,5 +1,73 @@
 [
   {
+    "ContainingType": "Employee_Test.Controllers.CountryController",
+    "Method": "CreateCountry",
+    "RelativePath": "api/Country/CreateCountry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Employee_Test.countryDto.CreateCountryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Test.Controllers.CountryController",
+    "Method": "DeleteCountry",
+    "RelativePath": "api/Country/DeleteCountry",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Test.Controllers.CountryController",
+    "Method": "GetAllCountries",
+    "RelativePath": "api/Country/GetAllCountries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Test.Controllers.CountryController",
+    "Method": "GetAvailableLanguages",
+    "RelativePath": "api/Country/GetAvailableLanguages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Test.Controllers.CountryController",
+    "Method": "GetCountriesByLanguage",
+    "RelativePath": "api/Country/GetCountriesByLanguage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Employee_Test.Controllers.DepartmentController",
     "Method": "AddDepartment",
     "RelativePath": "api/Department/AddDepartment",

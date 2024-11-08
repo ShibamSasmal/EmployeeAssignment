@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Employee Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\countrydto\\countrytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\countrydto\\countrytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\countrydto\\createcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\countrydto\\createcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\models\\tblcountrytran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\models\\tblcountrytran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\models\\tblapplangmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\models\\tblapplangmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\interface\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\interface\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\employees\\createmappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\employees\\createmappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\employees\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\employees\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\employees\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\employees\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\employee test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\employee test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|d:\\employee test\\employee test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D8287-567E-4703-9E2C-AB06E7C23116}|Employee Test\\Employee Test.csproj|solutionrelative:employee test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Interface\\IAuditable.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Interface\\IAuditable.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Interface\\IAuditable.cs",
+              "RelativeToolTip": "Employee Test\\Interface\\IAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:56:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMappingDto.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Employees\\CreateMappingDto.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Employees\\CreateMappingDto.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Employees\\CreateMappingDto.cs",
+              "RelativeToolTip": "Employee Test\\Employees\\CreateMappingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Employees\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Employees\\EmployeeDto.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Employees\\EmployeeDto.cs",
+              "RelativeToolTip": "Employee Test\\Employees\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Employees\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Employees\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Employees\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "Employee Test\\Employees\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:41.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryTranslationRequest.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\countryDto\\CountryTranslationRequest.cs",
+              "RelativeDocumentMoniker": "Employee Test\\countryDto\\CountryTranslationRequest.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\countryDto\\CountryTranslationRequest.cs",
+              "RelativeToolTip": "Employee Test\\countryDto\\CountryTranslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:17:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCountryRequest.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\countryDto\\CreateCountryRequest.cs",
+              "RelativeDocumentMoniker": "Employee Test\\countryDto\\CreateCountryRequest.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\countryDto\\CreateCountryRequest.cs",
+              "RelativeToolTip": "Employee Test\\countryDto\\CreateCountryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:16:19.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee Test.csproj",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Employee Test.csproj",
+              "RelativeDocumentMoniker": "Employee Test\\Employee Test.csproj",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Employee Test.csproj",
+              "RelativeToolTip": "Employee Test\\Employee Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T10:15:33.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Program.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Program.cs",
+              "RelativeToolTip": "Employee Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:52:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TblCountryTran.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Models\\TblCountryTran.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Models\\TblCountryTran.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Models\\TblCountryTran.cs",
+              "RelativeToolTip": "Employee Test\\Models\\TblCountryTran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:44:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Employee Test\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:48:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Employee Test\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwHQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:08:17.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TblCountry.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Models\\TblCountry.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Models\\TblCountry.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Models\\TblCountry.cs",
+              "RelativeToolTip": "Employee Test\\Models\\TblCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:41:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TblAppLangMaster.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Models\\TblAppLangMaster.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Models\\TblAppLangMaster.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Models\\TblAppLangMaster.cs",
+              "RelativeToolTip": "Employee Test\\Models\\TblAppLangMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:40:26.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Employee Test\\Employee Test\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Employee Test\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Employee Test\\Employee Test\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Employee Test\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:38:29.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
